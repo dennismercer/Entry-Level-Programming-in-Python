@@ -33,5 +33,5 @@ This repository contains my personal work and is meant for educational purposes 
 
 Contact
 Dennis Mercer
-Mercer24@purdue.edu or dennis.m.mercer@gamil.com
+Mercer24@purdue.edu or dennis.m.mercer@gmail.com
 
